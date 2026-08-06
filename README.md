@@ -8,4 +8,5 @@ A collection of command-line utility scripts with tests.
 
 ## Usage
 
-pytest test_file_organizer.py
+```bash
+python file_organizer.py /path/to/folder
